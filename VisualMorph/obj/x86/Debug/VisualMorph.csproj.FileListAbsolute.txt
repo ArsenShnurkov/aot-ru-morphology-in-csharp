@@ -1,0 +1,13 @@
+C:\Storage\VisualMorph\VisualMorph\VisualMorph\bin\Debug\VisualMorph.exe
+C:\Storage\VisualMorph\VisualMorph\VisualMorph\bin\Debug\VisualMorph.pdb
+C:\Storage\VisualMorph\VisualMorph\VisualMorph\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Storage\VisualMorph\VisualMorph\VisualMorph\obj\x86\Debug\MainWindow.baml
+C:\Storage\VisualMorph\VisualMorph\VisualMorph\obj\x86\Debug\MainWindow.g.cs
+C:\Storage\VisualMorph\VisualMorph\VisualMorph\obj\x86\Debug\App.g.cs
+C:\Storage\VisualMorph\VisualMorph\VisualMorph\obj\x86\Debug\VisualMorph_MarkupCompile.cache
+C:\Storage\VisualMorph\VisualMorph\VisualMorph\obj\x86\Debug\VisualMorph.g.resources
+C:\Storage\VisualMorph\VisualMorph\VisualMorph\obj\x86\Debug\WpfApplication1.Properties.Resources.resources
+C:\Storage\VisualMorph\VisualMorph\VisualMorph\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Storage\VisualMorph\VisualMorph\VisualMorph\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Storage\VisualMorph\VisualMorph\VisualMorph\obj\x86\Debug\VisualMorph.exe
+C:\Storage\VisualMorph\VisualMorph\VisualMorph\obj\x86\Debug\VisualMorph.pdb
